@@ -1,2 +1,4 @@
 # sshfiles
-https://t.me/proxy?server=5.35.33.235&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D160301020001000100000000000000000000000000000000
+vless://28694376-bad3-481b-936e-82e616afffcb@allturkforush.setssh.ru:38399?type=grpc&serviceName=&security=reality&fp=firefox&pbk=B0IZH8_1sWwI9oMYp9619ZzT2b5hDy87zswgXVXimCs&sni=discord.com&sid=6205c4e3&spx=%2F#all-1-Aryan
+
+ارین
